@@ -36,3 +36,11 @@ This dictionary is published to the community through the `The Typing of the Dea
 ![Workshop tool](https://steamuserimages-a.akamaihd.net/ugc/39744846856559359/1990CB2C54CF1F82D50948B258A6D109948157C6/)
 
 Detailed instructions on how to publish a custom dictionary using this tool is found here: https://steamcommunity.com/sharedfiles/filedetails/?id=414808565
+
+## Some ideas for the future
+
+Following, some ideas for future implementations.
+
+### Dinamic dictionary generation
+
+Build a dictionary from dynamic sources, like web page scrappers. We could extract relevant terms from selected Wikipedia articles, for example.
