@@ -1,100 +1,100 @@
-Don't Repeat Yourself
-git push
-Unix
-Docker
-You Ain't Gonna Need It
-Desing Patterns
-Don't deploy on fridays, please.
-Go
-NoSQL
-TDD
-Evil SCRUM
-SQL
-Pair programming
-Java Stream API
-Software engineering
-Extreme programming
-GitHub
-git pull
-What is OO for?
-Kubernetes
-Python
 Accidental complexity
-What is quality?
-Onion architectures
-Pods
-Deploys
-XP
-git
-Deno
-Quality
-Language Integrated Query
-Queue
-C#
-Powershell
-Learning to code on YouTube
-Implict reference conversion
-GitHub Flow
-Backend
-Clean code
-Should I deploy today?
-SCRUM
-C
-Stack
-C++
-NPS
-OOP
-SOLID
-Javascript
-The true agile
-Deploys on fridays
-Interface Segragration Principle
-Two-pizza teams
-The mob is alive
-Classes
-FreeBSD
-C# is cool!
-Strongly typped languages
-Open-Closed Principle
-Docker compose
-Dependency injection
-Array
-MacOS
-Test driven development
-Interfaces
-Should I deploy on friday?
-Frontend
-Ruby
-Dependency inversion
-Agile methodologies
-List
-LINQ
-Java
-Shell Script
-Containers
-Linux
-NodeJS
-Docker Swarm
-Object Oriented Programming
-Types
-git commit
-Liskov Substitution Principle
-Weakly typed languaguages
-YAGNI
-git checkout
-Batch files
-Keep It Simple, Stupid
-KISS
-QA
 Software architecture
-Dark SCRUM
-PHP
-Objects
-Mob programming
-DRY
-Gang of Four
-Coding or programming?
-GitFlow
-Single Responsibility Principle
+Deno
+git checkout
+Deploys
+Docker Swarm
+YAGNI
 Windows
+NoSQL
+Batch files
+You Ain't Gonna Need It
+Implict reference conversion
+Strongly typped languages
+Pods
+C#
+LINQ
+Quality
+Weakly typed languaguages
+Don't deploy on fridays, please.
+Docker compose
+Linux
+Deploys on fridays
+TDD
+Single Responsibility Principle
+C# is cool!
+Docker
+QA
+DRY
+SCRUM
+git push
+Desing Patterns
+Evil SCRUM
+C
+Go
+Objects
+Interfaces
+Containers
+Object Oriented Programming
+Java Stream API
 Dependency Inversion Principle
+git commit
+Extreme programming
+KISS
+Gang of Four
+Dependency injection
+Clean code
+Agile methodologies
+Language Integrated Query
+git pull
+Should I deploy on friday?
+Test driven development
+The true agile
+Don't Repeat Yourself
+The mob is alive
+Types
+OOP
+Software engineering
+Javascript
+Open-Closed Principle
+Frontend
+Java
+Liskov Substitution Principle
+Should I deploy today?
+FreeBSD
+List
+SQL
+GitHub Flow
+Shell Script
+Coding or programming?
+Classes
+Dark SCRUM
+Learning to code on YouTube
+Dependency inversion
+C++
+MacOS
+XP
+What is quality?
+Kubernetes
+Powershell
+Interface Segragration Principle
+Unix
+git
+Onion architectures
+Keep It Simple, Stupid
+Queue
+Stack
+NPS
+Array
+Ruby
+Pair programming
+Mob programming
+PHP
+Two-pizza teams
+GitFlow
+SOLID
+Backend
+What is OO for?
+Python
+GitHub
+NodeJS
