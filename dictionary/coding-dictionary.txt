@@ -1,0 +1,9 @@
+SOLID
+DRY
+Don't Repeat Yourself
+YAGNI
+You Ain't Gonna Need It
+C# is cool!
+Desing Patterns
+Gang of Four
+Clean code
