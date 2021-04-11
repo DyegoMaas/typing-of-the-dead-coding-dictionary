@@ -1,0 +1,6 @@
+TDD
+Test driven development
+Quality
+What is quality?
+QA
+NPS

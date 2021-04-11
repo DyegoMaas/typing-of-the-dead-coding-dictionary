@@ -1,0 +1,6 @@
+Accidental complexity
+Software architecture
+Software engineering
+Backend
+Frontend
+Onion architectures

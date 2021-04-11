@@ -1,0 +1,20 @@
+C
+C++
+C#
+Java
+Go
+Python
+Javascript
+NodeJS
+Deno
+Python
+PHP
+Ruby
+Shell Script
+Powershell
+Batch files
+C# is cool!
+Types
+Strongly typped languages
+Weakly typed languaguages
+Implict reference conversion

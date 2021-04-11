@@ -1,0 +1,16 @@
+Desing Patterns
+Gang of Four
+Clean code
+OOP
+Objects
+Object Oriented Programming
+What is OO for?
+Coding or programming?
+Open-Closed Principle
+Liskov Substitution Principle
+Interface Segragration Principle
+Dependency Inversion Principle
+Dependency inversion
+Dependency injection
+Classes
+Interfaces

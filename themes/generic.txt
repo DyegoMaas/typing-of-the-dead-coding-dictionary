@@ -1,0 +1,6 @@
+Deploys
+Should I deploy today?
+Should I deploy on friday?
+Don't deploy on fridays, please.
+Deploys on fridays
+Learning to code on YouTube
