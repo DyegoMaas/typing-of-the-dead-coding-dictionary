@@ -1,9 +1,68 @@
 SOLID
+Single Responsibility Principle
 DRY
 Don't Repeat Yourself
 YAGNI
 You Ain't Gonna Need It
+KISS
+Keep It Simple, Stupid
 C# is cool!
 Desing Patterns
 Gang of Four
 Clean code
+OOP
+Objects
+Object Oriented Programming
+What is OO for?
+Coding or programming?
+Open-Closed Principle
+Liskov Substitution Principle
+Interface Segragration Principle
+Dependency Inversion Principle
+Dependency inversion
+Dependency injection
+C
+C++
+C#
+Java
+Go
+Python
+Javascript
+NodeJS
+Deno
+Python
+PHP
+Ruby
+Shell Script
+Powershell
+Batch files
+Classes
+Interfaces
+Inheritance
+Generics
+Covariance
+Contravariance
+Types
+Strongly typped languages
+Implict reference conversion
+Array
+List
+Queue
+Stack
+Accidental complexity
+Software architecture
+Software engineering
+Backend
+Frontend
+Containers
+Docker
+Docker compose
+Docker Swarm
+Kubernetes
+Pods
+Deploys
+Should I deploy today?
+Should I deploy on friday?
+Deploys on fridays
+Two-pizza teams
+Learning to code on YouTube
