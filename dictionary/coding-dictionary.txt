@@ -1,68 +1,100 @@
-SOLID
-Single Responsibility Principle
-DRY
 Don't Repeat Yourself
-YAGNI
-You Ain't Gonna Need It
-KISS
-Keep It Simple, Stupid
-C# is cool!
-Desing Patterns
-Gang of Four
-Clean code
-OOP
-Objects
-Object Oriented Programming
-What is OO for?
-Coding or programming?
-Open-Closed Principle
-Liskov Substitution Principle
-Interface Segragration Principle
-Dependency Inversion Principle
-Dependency inversion
-Dependency injection
-C
-C++
-C#
-Java
-Go
-Python
-Javascript
-NodeJS
-Deno
-Python
-PHP
-Ruby
-Shell Script
-Powershell
-Batch files
-Classes
-Interfaces
-Inheritance
-Generics
-Covariance
-Contravariance
-Types
-Strongly typped languages
-Implict reference conversion
-Array
-List
-Queue
-Stack
-Accidental complexity
-Software architecture
-Software engineering
-Backend
-Frontend
-Containers
+git push
+Unix
 Docker
-Docker compose
-Docker Swarm
+You Ain't Gonna Need It
+Desing Patterns
+Don't deploy on fridays, please.
+Go
+NoSQL
+TDD
+Evil SCRUM
+SQL
+Pair programming
+Java Stream API
+Software engineering
+Extreme programming
+GitHub
+git pull
+What is OO for?
 Kubernetes
+Python
+Accidental complexity
+What is quality?
+Onion architectures
 Pods
 Deploys
-Should I deploy today?
-Should I deploy on friday?
-Deploys on fridays
-Two-pizza teams
+XP
+git
+Deno
+Quality
+Language Integrated Query
+Queue
+C#
+Powershell
 Learning to code on YouTube
+Implict reference conversion
+GitHub Flow
+Backend
+Clean code
+Should I deploy today?
+SCRUM
+C
+Stack
+C++
+NPS
+OOP
+SOLID
+Javascript
+The true agile
+Deploys on fridays
+Interface Segragration Principle
+Two-pizza teams
+The mob is alive
+Classes
+FreeBSD
+C# is cool!
+Strongly typped languages
+Open-Closed Principle
+Docker compose
+Dependency injection
+Array
+MacOS
+Test driven development
+Interfaces
+Should I deploy on friday?
+Frontend
+Ruby
+Dependency inversion
+Agile methodologies
+List
+LINQ
+Java
+Shell Script
+Containers
+Linux
+NodeJS
+Docker Swarm
+Object Oriented Programming
+Types
+git commit
+Liskov Substitution Principle
+Weakly typed languaguages
+YAGNI
+git checkout
+Batch files
+Keep It Simple, Stupid
+KISS
+QA
+Software architecture
+Dark SCRUM
+PHP
+Objects
+Mob programming
+DRY
+Gang of Four
+Coding or programming?
+GitFlow
+Single Responsibility Principle
+Windows
+Dependency Inversion Principle
