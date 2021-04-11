@@ -20,7 +20,7 @@ C# is cool!
 ...
 ```
 
-In this repository, this is done in the file `/dictionary/coding-dictionary.txt`.
+In this repository, this is done in the file `/dictionary/On Coding.txt`.
 
 You can create this file with your favourite text editor before saving it and selecting it here.
 The only thing to keep in mind is that only the following characters are supported in-game:

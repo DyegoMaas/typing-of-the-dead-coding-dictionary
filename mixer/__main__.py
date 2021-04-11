@@ -35,8 +35,10 @@ def main():
     mixed_set = mix(initial_set)
     print(f'-> Mixed set:{os.linesep}{mixed_set}')
     
-    result_file_abs_path = os.path.join(os.path.abspath('dictionary'), 'coding-dictionary.txt')
+    result_file_abs_path = os.path.join(os.path.abspath('dictionary'), 'On Coding.txt')
     save_combined_set(mixed_set, result_file_abs_path)
+
+    print(f'-> New dictionary created: {result_file_abs_path}')
 
 if __name__ == '__main__':
      # execute only if run as a script

@@ -1,0 +1,100 @@
+Deploys
+Dependency inversion
+Unix
+Extreme programming
+Accidental complexity
+Linux
+Two-pizza teams
+Types
+Array
+Dependency Inversion Principle
+Shell Script
+Deploys on fridays
+PHP
+FreeBSD
+Objects
+Gang of Four
+Windows
+Pods
+C
+SCRUM
+Quality
+Coding or programming?
+You Ain't Gonna Need It
+Object Oriented Programming
+Ruby
+Powershell
+Desing Patterns
+Keep It Simple, Stupid
+SQL
+Agile methodologies
+git pull
+Software architecture
+What is OO for?
+Javascript
+List
+Backend
+Strongly typped languages
+Queue
+TDD
+Batch files
+C# is cool!
+Implict reference conversion
+DRY
+Software engineering
+Docker
+Mob programming
+Don't deploy on fridays, please.
+XP
+Stack
+GitFlow
+Pair programming
+Should I deploy on friday?
+Liskov Substitution Principle
+Onion architectures
+NodeJS
+Kubernetes
+Frontend
+git push
+Single Responsibility Principle
+Java
+SOLID
+YAGNI
+Don't Repeat Yourself
+Deno
+git commit
+MacOS
+KISS
+NPS
+Open-Closed Principle
+Interface Segragration Principle
+Weakly typed languaguages
+What is quality?
+GitHub Flow
+The true agile
+Go
+Language Integrated Query
+C#
+Dependency injection
+Interfaces
+NoSQL
+Docker Swarm
+Classes
+Containers
+git
+Learning to code on YouTube
+Clean code
+git checkout
+Dark SCRUM
+GitHub
+QA
+Python
+Test driven development
+Java Stream API
+LINQ
+OOP
+Should I deploy today?
+The mob is alive
+Docker compose
+C++
+Evil SCRUM
